@@ -244,7 +244,6 @@
         }
         @media (max-width: 480px) {
             body {
-                padding: 0.5rem;
             }
             .era-container {
                 padding: 0.8rem;

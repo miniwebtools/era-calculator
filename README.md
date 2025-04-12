@@ -35,7 +35,6 @@
             background-color: var(--light-bg);
             color: var(--dark-text);
             line-height: 1.6;
-            padding: 1rem;
         }
         .era-container {
             max-width: var(--max-width);
